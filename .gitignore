@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+Models/
+upload/
+.DS_Store
+venv/
+.idea/
